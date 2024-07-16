@@ -60,14 +60,21 @@ dlldata.c
 # Benchmark Results
 BenchmarkDotNet.Artifacts/
 
+<<<<<<< HEAD
 # .NET
+=======
+# .NET Core
+>>>>>>> 5c8ca54a12a17d27f320bce2fabd5dbff070894b
 project.lock.json
 project.fragment.lock.json
 artifacts/
 
+<<<<<<< HEAD
 # Tye
 .tye/
 
+=======
+>>>>>>> 5c8ca54a12a17d27f320bce2fabd5dbff070894b
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
 
@@ -402,6 +409,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+<<<<<<< HEAD
 .idea
 
 ##
@@ -482,3 +490,5 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+=======
+>>>>>>> 5c8ca54a12a17d27f320bce2fabd5dbff070894b
